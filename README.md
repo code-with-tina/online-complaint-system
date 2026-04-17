@@ -65,10 +65,14 @@ online-complaint-system/
 
    http://localhost/online-complaint-system
    
- 📸 Screenshots
+ 📸 Project Screenshots
 
-![Home](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
+🏠 Home Page
+![Home Page](screenshots/index.png)
+
+🧑‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
+
 
 💡 Future Enhancements
 
